@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Craiglist Project
+## Craiglist Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Craiglist Project*
 
 
 **Java 8**
